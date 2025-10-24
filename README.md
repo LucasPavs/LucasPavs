@@ -12,7 +12,7 @@
 
 ### 🛠️ Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgresql,git,c,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgresql,git,c,javascript,html,css" />
 </p>
 
 ---
