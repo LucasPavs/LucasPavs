@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu me chamo Lucas!</h1>
-<h3 align="center">Desenvolvedor Backend em Formação.</h3>
+<h3 align="center">Desenvolvedor Full Stack em Formação.</h3>
 
 ---
 
