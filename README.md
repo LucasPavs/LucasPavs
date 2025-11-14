@@ -5,7 +5,7 @@
 
 ### 👨‍💻 Sobre Mim
 <p>
-  Sou graduando em Análise e Desenvolvimento de Sistemas e um Desenvolvedor Backend em Formação. Meu foco é construir soluções de software eficientes e escaláveis. Atualmente, estou aprofundando meus conhecimentos em tecnologias como Java, JavaScript, API's. Sempre buscando novos desafios para crescer profissionalmente.
+  Sou graduando em Análise e Desenvolvimento de Sistemas e um Desenvolvedor Backend em Formação. Meu foco é construir soluções de software eficientes e escaláveis. Atualmente, estou aprofundando meus conhecimentos em tecnologias como Java com Spring, JavaScript com Node e criação de API's REST. Sempre buscando novos desafios para crescer profissionalmente.
 </p>
 
 ---
